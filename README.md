@@ -1,0 +1,2 @@
+# ARCHITECTURAL-PARADIGM-OF-DEEP-LEARNING
+Copyrights By Modgenix Lab
